@@ -13,7 +13,7 @@ Un layout alternativo per tastiera italiana pensato per gli sviluppatori: permet
 Il layout italiano ufficiale è ottimizzato per la scrittura comune, ma poco per la programmazione.  
 Simboli come `{}`, `[]`, `~`, `` ` ``, `@`, `#` o `\` richiedono combinazioni scomode o mani fuori posizione.
 
-**ItaDev** risolve il problema:
+La tastiera **Italiano - DarCas** risolve il problema:
 - mantiene *completamente* la disposizione italiana tradizionale
 - aggiunge i simboli più usati nello sviluppo software
 - utilizza solo combinazioni con **AltGr** e **Shift + AltGr**
@@ -34,16 +34,16 @@ Simboli come `{}`, `[]`, `~`, `` ` ``, `@`, `#` o `\` richiedono combinazioni sc
 ## ⌨️ Mappa dei tasti aggiunti
 
 ### AltGr
-![AltGr layout](screenshots/ItaDevAltGr.jpgltGr.jpg)
+![AltGr layout](screenshots/ItaDevAltGr.jpg)
 
 ### Shift + AltGr
-![Shift AltGr layout](screenshots/ItaDevShftAltGr.jpgltGr.jpg)
+![Shift AltGr layout](screenshots/ItaDevShftAltGr.jpg)
 
 ---
 
 ## 📦 Installazione (Windows)
 
-1. Scarica l'ultima versione del pacchetto `ItaDev_*.zip`  
+1. Scarica l'ultima versione dalla colonna **Release**  
 2. Avvia `setup.exe`
 3. Riavvia Windows
 4. Attiva il layout `Italiano - DarCas` in:
