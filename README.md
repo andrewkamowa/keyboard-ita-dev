@@ -1,7 +1,6 @@
 # Layout di tastiera Italiano - DarCas (_per sviluppatori_)
 
 ![Status](https://img.shields.io/badge/status-Stable-success?style=for-the-badge)
-![Repo Size](https://img.shields.io/github/repo-size/DarCas/keyboard-ita-dev?style=for-the-badge)
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/DarCas/keyboard-ita-dev/total?style=for-the-badge)
 ![GitHub License](https://img.shields.io/github/license/DarCas/keyboard-ita-dev?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/platform-Windows-blue?style=for-the-badge)
